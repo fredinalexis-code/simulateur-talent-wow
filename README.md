@@ -2,4 +2,4 @@
 
 Découvrir les races et les classes avant de créer son personnage : la création, l'arbre de talents (mode Jeu) et le grimoire de chaque classe.
 
-Fabriqué par `classe/Application/construire-simulateur.js` — ne pas modifier ces fichiers à la main.
+Fabriqué par l’Écran du Maître (Azeroth › Simulateur) — ne pas modifier ces fichiers à la main.
